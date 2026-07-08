@@ -220,12 +220,6 @@ If you'd like to improve this project:
 ---
 
 
-# 📜 Author
-
-Anupam
-
----
-
 <p align="center">
 Made with ❤️ using Python, Streamlit, and Scikit-learn
 </p>
