@@ -219,19 +219,10 @@ If you'd like to improve this project:
 
 ---
 
-# ⭐ Support
 
-If you found this repository helpful, please consider giving it a **⭐ Star**.
+# 📜 Author
 
-Your support motivates me to build more open-source projects and share my learning journey.
-
----
-
-# 📜 License
-
-This project is licensed under the **MIT License**.
-
-Feel free to use, modify, and distribute it for learning and educational purposes.
+Anupam
 
 ---
 
