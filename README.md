@@ -147,6 +147,8 @@ streamlit run classification.py
 <p align="center">
 
 <!-- Paste Screenshot Here -->
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/3cabebd6-d7ba-4692-bcd0-f76817e70172" />
+
 
 </p>
 
@@ -157,6 +159,8 @@ streamlit run classification.py
 <p align="center">
 
 <!-- Paste Screenshot Here -->
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/e8ec5792-72a3-40c4-a05d-778b69b16e1f" />
+
 
 </p>
 
@@ -167,18 +171,12 @@ streamlit run classification.py
 <p align="center">
 
 <!-- Paste Screenshot Here -->
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/cb72cadc-9daa-44b6-80ab-b141f697a4be" />
+
 
 </p>
 
 ---
-
-## 📊 Interactive Charts
-
-<p align="center">
-
-<!-- Paste Screenshot Here -->
-
-</p>
 
 ---
 
